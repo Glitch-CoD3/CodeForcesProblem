@@ -1,2 +1,2 @@
 # CodeForcesProblem
-This repository contains the solution of a problem. It demonstrates my approach to solving the problem using C++ language.
+This repository contains a problem solution that demonstrates my approach to solving it using the C++ language.
